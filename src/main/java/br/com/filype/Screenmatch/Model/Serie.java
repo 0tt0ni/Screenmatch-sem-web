@@ -2,7 +2,6 @@ package br.com.filype.Screenmatch.Model;
 
 import jakarta.persistence.*;
 
-import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.OptionalDouble;

@@ -1,6 +1,5 @@
 package br.com.filype.Screenmatch.service;
 
-import br.com.filype.Screenmatch.Model.DadosSerie;
 import tools.jackson.databind.ObjectMapper;
 
 public class ConverteDados  implements IConverteDados{

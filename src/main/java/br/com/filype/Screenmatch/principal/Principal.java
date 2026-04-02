@@ -4,7 +4,6 @@ import br.com.filype.Screenmatch.Model.*;
 import br.com.filype.Screenmatch.repository.SerieRepository;
 import br.com.filype.Screenmatch.service.ConsumoApi;
 import br.com.filype.Screenmatch.service.ConverteDados;
-import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.*;
 import java.util.stream.Collectors;
